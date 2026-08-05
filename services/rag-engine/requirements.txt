@@ -1,0 +1,5 @@
+redis==5.0.4
+asyncpg==0.29.0
+sentence-transformers==2.7.0
+pgvector==0.2.5
+anthropic==0.28.0

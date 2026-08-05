@@ -1,0 +1,4 @@
+redis==5.0.4
+asyncpg==0.29.0
+orjson==3.10.3
+numpy==1.26.4
